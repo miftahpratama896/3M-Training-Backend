@@ -1,0 +1,21 @@
+{
+  "name": "mescanbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mssql": "^10.0.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5",
+    "ws": "^8.16.0",
+    "xlsx": "^0.18.5"
+  }
+}
